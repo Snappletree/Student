@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment1.params=namea\ test1a\ test2a\ test3a
+comment1.target=Student(java.lang.String,\ double,\ double,\ double)
+comment10.params=
+comment10.target=double\ gettestAverage()
+comment2.params=
+comment2.target=java.lang.String\ getname()
+comment3.params=newname
+comment3.target=void\ setname(java.lang.String)
+comment4.params=
+comment4.target=double\ gettest1()
+comment5.params=newtest1
+comment5.target=void\ settest1(double)
+comment6.params=
+comment6.target=double\ gettest2()
+comment7.params=newtest2
+comment7.target=void\ settest2(double)
+comment8.params=
+comment8.target=double\ gettest3()
+comment9.params=newtest3
+comment9.target=void\ settest3(double)
+numComments=11
